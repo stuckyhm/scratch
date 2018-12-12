@@ -112,6 +112,20 @@ http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/
 http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/artifacts.xml.xz
 http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/compositeArtifacts.jar
 http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/compositeArtifacts.xml
+http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/plugins/javassist_3.13.0.GA_v201209210905.jar
+http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/plugins/javax.ws.rs_2.0.1.v201504171603.jar
+http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/plugins/jnr.x86asm_1.0.2.v201505052040.jar
+http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/plugins/org.glassfish.hk2.api_2.5.0.v20161103-0227.jar
+http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/plugins/org.glassfish.hk2.locator_2.5.0.v20161103-0227.jar
+http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/plugins/org.glassfish.hk2.osgi-resource-locator_2.5.0.v20161103-1916.jar
+http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/plugins/org.glassfish.hk2.utils_2.5.0.v20160210-1508.jar
+http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/plugins/org.glassfish.jersey.apache.connector_2.22.1.v20161103-1916.jar
+http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/plugins/org.glassfish.jersey.bundles.repackaged.jersey-guava_2.22.1.v20161103-1916.jar
+http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/plugins/org.glassfish.jersey.core.jersey-client_2.22.1.v20161103-1916.jar
+http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/plugins/org.glassfish.jersey.core.jersey-common_2.22.1.v20161103-1916.jar
+http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/plugins/org.glassfish.jersey.core.jersey-server_2.22.1.v20161103-1916.jar
+http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/plugins/org.glassfish.jersey.ext.entityfiltering_2.22.1.v20161103-0227.jar
+http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/plugins/org.glassfish.jersey.media.jersey-media-json-jackson_2.22.1.v20161117-2005.jar
 http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703141400/site.xml
 http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703231000/artifacts.jar
 http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/releases/neon/201703231000/artifacts.xml
@@ -228,3 +242,5 @@ https://devstudio.redhat.com/targetplatforms/devstudiotarget/4.9.0.Final-SNAPSHO
 https://devstudio.redhat.com/targetplatforms/devstudiotarget/4.9.0.Final-SNAPSHOT/REPO/plugins/org.eclipse.mylyn.wikitext.asciidoc_3.0.25.20180620133858.jar
 https://devstudio.redhat.com/targetplatforms/devstudiotarget/4.9.0.Final-SNAPSHOT/REPO/plugins/org.eclipse.sapphire.ui_9.1.0.201609301330.jar
 https://devstudio.redhat.com/targetplatforms/devstudiotarget/4.9.0.Final-SNAPSHOT/REPO/plugins/org.eclipse.sapphire.ui_9.1.0.201609301330.jar.pack.gz
+http://www.eclipse.org/downloads/download.php?format=xml&file=/releases/neon/201703141400&countryCode=de&timeZone=1&format=xml
+http://www.eclipse.org/setups/setups.zip
